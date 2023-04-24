@@ -1,24 +1,7 @@
-# tabfit
+# new tab workout
 
-## Project setup
-```
-npm install
-```
+A small browser add on that adds fitness tasks to your new tab page in Google Chrome.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+https://chrome.google.com/webstore/detail/new-tab-workout/laphbmblclabfkificdlmlackicaohgo
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Written in Javascript with Vue 2.
